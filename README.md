@@ -1,4 +1,4 @@
 junemusikk.no
 =============
 
-static site for junemusikk.no
+Static site for junemusikk.no
